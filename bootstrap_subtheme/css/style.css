@@ -1,0 +1,9 @@
+.navbar-shrink {
+    background: black none repeat scroll 0 0;
+    color: #fff;
+    height: 61px;
+    line-height: 9px;
+    position: fixed;
+    text-align: center;
+    z-index: 1;
+}
